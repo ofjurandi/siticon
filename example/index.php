@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Siticon Library Bootstrap-icon v5</title>
+    <link rel="icon" type="image/svg" href="/example/img/bootstrap-fill.svg">
     <link rel="stylesheet" href="css/bootstrap-icons.css">
 
     <style>
