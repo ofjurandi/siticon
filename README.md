@@ -25,7 +25,7 @@ Você pode saber mais **[clicando aqui](https://icons.getbootstrap.com)**.
 Uploader is available via Composer:
 
 ```bash
-"jcodee/siticon": "^1.0"
+"jcodee/siticon": "^1.1"
 ```
 
 or run
