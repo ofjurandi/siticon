@@ -21,6 +21,9 @@
 <div class="hero">
     <i class="bi bi-facebook" style="color: blue;"></i>
     <p><i class="bi bi-facebook" style="color: coral;"></i> Lorem ipsum dolor sit amet.</p>
+    <br>
+    <hr>
+    <p><i class="bi bi-dribbble style="color: red;"></i> Lorem ipsum dolor sit amet.</p>
 </div>
 
 </body>
